@@ -1,3 +1,7 @@
+---
+permalink: /course/
+---
+
 ## Welcome to My Website
 
 Hello, my name is Zach Lemmon. I am 20 years old and I am a third-year student in the Durham College Computer Programmer Analyst(CPA) program.
