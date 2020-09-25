@@ -1,5 +1,5 @@
 ---
-permalink: /course/
+permalink: /
 ---
 
 ## Welcome to My Website
