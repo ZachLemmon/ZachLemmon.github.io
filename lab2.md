@@ -97,7 +97,7 @@ much more.
 
 Windows
 
--Microsoft® Windows® 7/8/10 (64-bit)
+Microsoft® Windows® 7/8/10 (64-bit)
 - 4 GB RAM minimum, 8 GB RAM recommended
 - 2 GB of available disk space minimum,
 - 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
